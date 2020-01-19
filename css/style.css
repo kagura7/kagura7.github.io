@@ -456,6 +456,10 @@ input[type="radio"]:not(:checked) + label:after {
   content: "\e88d";
 }
 
+.icon-flickr:before {
+  content: "\e88e";
+}
+
 
 .header-logo a {
   padding: 0;
